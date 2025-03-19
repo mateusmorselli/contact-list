@@ -4,6 +4,7 @@ export const Aside = styled.aside`
   background-color: rgb(42, 41, 49);
   padding: 16px;
   height: 100vh;
+  width: 100%;
 `
 
 export const Filtros = styled.div`
