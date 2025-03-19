@@ -1,46 +1,26 @@
-# Getting Started with Create React App
+# Contact List
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este projeto é uma aplicação de lista de contatos, permitindo aos usuários adicionar, editar e excluir informações de contatos de maneira simples e intuitiva.
 
-## Available Scripts
+## Descrição
 
-In the project directory, you can run:
+A aplicação permite ao usuário gerenciar uma lista de contatos, com funcionalidades para adicionar novos contatos, editar as informações de contatos existentes e remover contatos. A interface é simples e responsiva, adequada para dispositivos móveis e desktops.
 
-### `npm start`
+## Funcionalidades
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- Adicionar novos contatos com informações como nome, email e número de telefone.
+- Editar os detalhes dos contatos existentes.
+- Excluir contatos.
+- Visualização em tempo real da lista de contatos.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Tecnologias Utilizadas
 
-### `npm test`
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+- **React**
+- **Vercel** (deploy da aplicação)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Licença
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Este projeto está licenciado sob a MIT License.
