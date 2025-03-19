@@ -10,30 +10,30 @@ const initialState: ContatosState = {
   itens: [
     {
       id: 1,
-      nome: 'Mateus Morselli',
-      email: 'matmorselli@gmail.com',
-      telefone: '44991172022',
+      nome: 'Contato 1',
+      email: 'contato1@gmail.com',
+      telefone: '11-99999999',
       tipo: enums.TipoDeContato.FAMILIA
     },
     {
       id: 2,
-      nome: 'Joao Morselli',
-      email: 'jmorselli@gmail.com',
-      telefone: '44991172022',
+      nome: 'Contato 2',
+      email: 'contato2@gmail.com',
+      telefone: '11-99999999',
       tipo: enums.TipoDeContato.TRABALHO
     },
     {
       id: 3,
-      nome: 'Corinthians da Silva',
-      email: 'corinthians@gmail.com',
-      telefone: '44991172022',
+      nome: 'Contato 3',
+      email: 'contato3@gmail.com',
+      telefone: '11-99999999',
       tipo: enums.TipoDeContato.AMIGOS
     },
     {
       id: 4,
-      nome: 'Palmeiras da Silva',
-      email: 'palmeirax@gmail.com',
-      telefone: '44991172022',
+      nome: 'Contato 4',
+      email: 'contato4@gmail.com',
+      telefone: '11-99999999',
       tipo: enums.TipoDeContato.OUTROS
     }
   ]
